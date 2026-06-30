@@ -1,0 +1,21 @@
+# Internal business documents (not for version control)
+TCN Files copy/
+tokencap_updated_with_disclaimer_v2/
+TCN Logo.png
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Claude Code session files
+.claude/
+
+# Environment (contains secrets)
+**/.env.local
+**/.env*.local
+
+# Logs
+*.log
+
+# R history
+.Rhistory
